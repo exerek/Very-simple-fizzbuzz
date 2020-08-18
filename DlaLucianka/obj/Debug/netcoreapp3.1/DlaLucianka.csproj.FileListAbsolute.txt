@@ -1,0 +1,13 @@
+C:\Users\igork\source\repos\DlaLucianka\DlaLucianka\obj\Debug\netcoreapp3.1\DlaLucianka.csprojAssemblyReference.cache
+C:\Users\igork\source\repos\DlaLucianka\DlaLucianka\obj\Debug\netcoreapp3.1\DlaLucianka.csproj.CoreCompileInputs.cache
+C:\Users\igork\source\repos\DlaLucianka\DlaLucianka\obj\Debug\netcoreapp3.1\DlaLucianka.AssemblyInfoInputs.cache
+C:\Users\igork\source\repos\DlaLucianka\DlaLucianka\obj\Debug\netcoreapp3.1\DlaLucianka.AssemblyInfo.cs
+C:\Users\igork\source\repos\DlaLucianka\DlaLucianka\bin\Debug\netcoreapp3.1\DlaLucianka.exe
+C:\Users\igork\source\repos\DlaLucianka\DlaLucianka\bin\Debug\netcoreapp3.1\DlaLucianka.deps.json
+C:\Users\igork\source\repos\DlaLucianka\DlaLucianka\bin\Debug\netcoreapp3.1\DlaLucianka.runtimeconfig.json
+C:\Users\igork\source\repos\DlaLucianka\DlaLucianka\bin\Debug\netcoreapp3.1\DlaLucianka.runtimeconfig.dev.json
+C:\Users\igork\source\repos\DlaLucianka\DlaLucianka\bin\Debug\netcoreapp3.1\DlaLucianka.dll
+C:\Users\igork\source\repos\DlaLucianka\DlaLucianka\bin\Debug\netcoreapp3.1\DlaLucianka.pdb
+C:\Users\igork\source\repos\DlaLucianka\DlaLucianka\obj\Debug\netcoreapp3.1\DlaLucianka.dll
+C:\Users\igork\source\repos\DlaLucianka\DlaLucianka\obj\Debug\netcoreapp3.1\DlaLucianka.pdb
+C:\Users\igork\source\repos\DlaLucianka\DlaLucianka\obj\Debug\netcoreapp3.1\DlaLucianka.genruntimeconfig.cache
